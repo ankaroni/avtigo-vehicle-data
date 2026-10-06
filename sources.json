@@ -1,0 +1,69 @@
+{
+  "legacyModels": {
+    "url": "https://github.com/ankaroni/avtigo/blob/main/apps/web/src/data/vehicle-makes-models.json",
+    "attribution": "gor3a/vehicle-makes-models (https://github.com/gor3a/vehicle-makes-models), data licensed ODbL 1.0, compiled from autoevolution.com. Model lists only (no generation/engine detail) — see the source repo for full tier-3 specs. Redundant leading brand-name prefixes and German \"Klasse\" wording were normalized/deduped during import. Cleaned for Bulgarian marketplace against active Mobile.bg make availability on 2026-09-30; obvious naming artifacts normalized.",
+    "verification": "inherited_not_independently_verified"
+  },
+  "legacyEngines": {
+    "url": "https://github.com/ankaroni/avtigo/blob/main/apps/web/src/data/vehicle-trims.json",
+    "attribution": "gor3a/vehicle-makes-models (https://github.com/gor3a/vehicle-makes-models), data licensed ODbL 1.0, compiled from autoevolution.com. Model lists only (no generation/engine detail) — see the source repo for full tier-3 specs. Redundant leading brand-name prefixes and German \"Klasse\" wording were normalized/deduped during import.",
+    "verification": "inherited_not_independently_verified"
+  },
+  "vwDsg": {
+    "url": "https://www.volkswagen-newsroom.com/en/dual-clutch-gearbox-dsg-3651",
+    "verification": "manufacturer"
+  },
+  "audiTransmissions": {
+    "url": "https://www.audi-mediacenter.com/en/the-audi-a4-major-upgrade-for-the-bestseller-2019-11884/drive-and-suspension-11894",
+    "verification": "manufacturer"
+  },
+  "toyotaEcvT": {
+    "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/260307-Yaris-Press-Pack.pdf",
+    "verification": "manufacturer"
+  },
+  "eat8": {
+    "url": "https://www.media.stellantis.com/em-en/peugeot/press/new-peugeot-508-sw-n-breaking-the-codes",
+    "verification": "manufacturer"
+  },
+  "pdk": {
+    "url": "https://newsroom.porsche.com/en/2020/products/porsche-dual-clutch-transmission-718-22146.html",
+    "verification": "manufacturer"
+  },
+  "powershift": {
+    "url": "https://media.ford.com/content/fordmedia/feu/gb/en/news/2014/03/06/top-selling-ford-fiesta-1-0l-ecoboost-gains-six-speed-powershift.html",
+    "verification": "manufacturer"
+  },
+  "steptronic": {
+    "url": "https://www.press.bmwgroup.com/global/article/detail/T0277002EN/double-clutch-transmission-in-the-mini%3A-faster-gearshifts-for-increased-driving-fun?language=en",
+    "verification": "manufacturer",
+    "note": "Steptronic is a trade name; this source describes a dual-clutch implementation, not every Steptronic."
+  },
+  "tronic9": {
+    "url": "https://file.media.mercedes-benz.com/article/f7a3ba19-6ea6-49ce-8ab0-a5d1b33b08fc",
+    "verification": "manufacturer"
+  },
+  "edc": {
+    "url": "https://media.renault.com/new-energy-tce-165-engine-mated-to-seven-speed-edc-transmission-joins-megane-hatchback-and-megane-estate-catalogues?lang=eng",
+    "verification": "manufacturer"
+  },
+  "focusEngines": {
+    "url": "https://media.ford.com/content/fordmedia/feu/en/news/2014/09/08/new-ford-focus--advanced-tech--fine-craftsmanship-and-improved-e.html",
+    "verification": "manufacturer"
+  },
+  "focusDiesel2": {
+    "url": "https://media.ford.com/content/fordmedia/feu/en/news/2014/09/08/new-ford-focus-delivers-fuel-efficiency-improvements-of-up-to-19.html",
+    "verification": "manufacturer"
+  },
+  "tucson2018": {
+    "url": "https://www.hyundai.news/newsroom/dam/eu/press-kits/2018_tucson/hyundai_tucson_technical_specifications.pdf",
+    "verification": "manufacturer"
+  },
+  "tucson2020": {
+    "url": "https://www.hyundai.news/eu/models/suv/tucson/press-kit/the-all-new-hyundai-tucson-a-smart-tech-hero-with-a-standout-design.html",
+    "verification": "manufacturer"
+  },
+  "tucsonHybrid": {
+    "url": "https://www.hyundai.com/eu/en/models/tucson-plug-in-hybrid.html",
+    "verification": "manufacturer"
+  }
+}

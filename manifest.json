@@ -1,0 +1,61 @@
+{
+  "catalogVersion": "2.0.0",
+  "schemaVersion": 2,
+  "files": [
+    {
+      "path": "data/vehicle-aliases.json",
+      "sha256": "e36777f44e5e56bcfa50a351d168d0462dce9872ddd86612947cb1e45c41a0ce",
+      "bytes": 4233814
+    },
+    {
+      "path": "data/vehicle-bulk-import-contract.json",
+      "sha256": "3d345b38cebb9f20507296504ad904d60db82694d720d7af6495832ae2413fcd",
+      "bytes": 1650
+    },
+    {
+      "path": "data/vehicle-catalog.v2.json",
+      "sha256": "b858f6d4a1b340c93957d841ead2029307f38f7a5a73926ed07ac61d9c3faa0c",
+      "bytes": 6039012
+    },
+    {
+      "path": "data/vehicle-equipment-rules.json",
+      "sha256": "f06095dd3c27c5048579eec6b7fe61ed9464d5980410db0d2f75efb05953b7b8",
+      "bytes": 9684
+    },
+    {
+      "path": "data/vehicle-equipment.json",
+      "sha256": "bf0e6638f6c4c81fc235e838d600ad9e48e8f4022bbd214506c2fa5e3d9cf1d9",
+      "bytes": 10822
+    },
+    {
+      "path": "data/vehicle-form-config.json",
+      "sha256": "7807946ec69d082bc4cd44dd68c9ce60b6c0355d04c394de5ba86ef6c39345f5",
+      "bytes": 1677
+    },
+    {
+      "path": "data/vehicle-makes-models.json",
+      "sha256": "ef6dfb97170acf3369fe892782244d3c54476a81e2f29824ef283791032d3732",
+      "bytes": 29996
+    },
+    {
+      "path": "data/vehicle-packages.json",
+      "sha256": "2c58d104d797d47ced0d009592c17b31c2982cdf7ad785a40c3d065c7d159ac5",
+      "bytes": 13218
+    },
+    {
+      "path": "data/vehicle-transmissions.json",
+      "sha256": "fe6e78f35547e315dc7de502ffa093dd6e96ce0a6a983909e163c88ce3f586e5",
+      "bytes": 5489
+    },
+    {
+      "path": "data/vehicle-trims.json",
+      "sha256": "afa5f35e865158b4e4f701a83010846a4be57dceb398647cb3e162720d451b96",
+      "bytes": 203004
+    },
+    {
+      "path": "sources.json",
+      "sha256": "b8cffdc2526691591507989a46d9149d11771c63baed6613ed5f43b7e5731584",
+      "bytes": 3883
+    }
+  ]
+}
